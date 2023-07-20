@@ -1,0 +1,134 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #191919;
+}
+.App {
+  color: white;
+  margin: 3rem;
+}
+h1,
+h2,
+p {
+  margin: 0px;
+  padding: 0px;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
+.navbar h1 {
+  margin-top: 0px;
+}
+input {
+  height: 2rem;
+  width: 20rem;
+  border: none;
+  border-radius: 3rem;
+  text-align: center;
+  border-color: rgb(255, 145, 0);
+}
+.navbar button {
+  height: 2rem;
+  width: 15rem;
+  border-radius: 4rem;
+  border: none;
+  background-color: aquamarine;
+}
+.ablock {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  background-color: #2a2a2a;
+  border-radius: 2rem;
+  margin: 3rem 0px;
+}
+.cloud {
+  display: flex;
+  justify-content: space-between;
+  gap: 10rem;
+}
+.date {
+  border-top: 2px solid black;
+  display: flex;
+  flex-direction: column;
+}
+
+.bblock {
+  background-color: #2a2a2a;
+  border-radius: 2rem;
+  padding: 1rem;
+}
+
+.one {
+  display: flex;
+  margin: 1rem 0px;
+  padding: 3px 2rem;
+  justify-content: space-between;
+}
+.cblock {
+  background-color: #2a2a2a;
+  border-radius: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 3rem 0px;
+  padding: 2rem;
+}
+.box {
+  background-color: #1a1a1a;
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+.air,
+.pressure {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.box h3 {
+  width: fit-content;
+  padding: 0.5rem 1.5rem;
+  background-color: rgb(230, 204, 169, 0.5);
+  border-radius: 2rem;
+}
+.airbox {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 40%;
+}
+.sunbox {
+  width: 45%;
+}
+.boxx
+{
+  width: 15%;
+}
+.sdblock
+{
+  display: flex;
+  justify-content: space-between;
+}
+.shadow
+{
+  padding: 2rem;
+  margin: 1rem;
+  background-color: #2a2a2a;
+  border-radius: 1rem;
+  width: fit-content;
+  flex-wrap: wrap;
+}
+.abcd
+{
+  display: flex;
+}
+.cd
+{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: 0px 6rem;
+}
